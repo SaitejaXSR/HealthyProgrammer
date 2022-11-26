@@ -1,0 +1,16 @@
+Drank water at 2022-11-26 18:18:05.039949
+Meditated at 2022-11-26 18:18:10.697264
+Drank water at 2022-11-26 18:18:41.935185
+Meditated at 2022-11-26 18:18:49.153875
+Did physical activity at 2022-11-26 18:18:55.368017
+Drank water at 2022-11-26 18:18:57.758582
+Meditated at 2022-11-26 18:19:00.757328
+Drank water at 2022-11-26 18:19:06.437748
+Did physical activity at 2022-11-26 18:19:08.627169
+Meditated at 2022-11-26 18:19:11.714431
+Drank water at 2022-11-26 18:19:13.830423
+Did physical activity at 2022-11-26 18:19:19.407535
+Drank water at 2022-11-26 18:19:21.024486
+Meditated at 2022-11-26 18:19:21.976341
+Drank water at 2022-11-26 18:19:28.359654
+Did physical activity at 2022-11-26 18:19:29.860983
